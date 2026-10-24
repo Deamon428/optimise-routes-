@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/aayushgarg/optimise routes/build/cmake_install.cmake",
+		"/Users/aayushgarg/optimise routes/build/_deps/catch2-build/cmake_install.cmake",
+		"/Users/aayushgarg/optimise routes/build/_deps/catch2-build/src/cmake_install.cmake",
+		"/Users/aayushgarg/optimise routes/build/_deps/nlohmann_json-build/cmake_install.cmake",
+		"/Users/aayushgarg/optimise routes/build/src/cmake_install.cmake",
+		"/Users/aayushgarg/optimise routes/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

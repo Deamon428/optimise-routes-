@@ -1,0 +1,152 @@
+# ninja log v7
+7	84	1792339626793745500	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.o	e44f3e18820530d3
+7	556	1792339626793646542	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_stats.cpp.o	d88e9bf793fa45e3
+6	558	1792339626793106877	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/catch_chronometer.cpp.o	e8b3c81358dc8c8d
+6	572	1792339626793436876	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_benchmark_function.cpp.o	713ad1792e11c6fb
+7	585	1792339626793541834	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_run_for_at_least.cpp.o	971e790965dcfb
+6	673	1792339626793324126	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_analyse.cpp.o	6ea78a04b308f31a
+7	751	1792339626794274999	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators_random.cpp.o	86990dc69a3c21b4
+8	741	1792339626794904498	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_common_base.cpp.o	d650e01a6627f46f
+8	743	1792339626794598374	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_automake.cpp.o	378f3bcfcefd3e41
+8	728	1792339626795132206	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_compact.cpp.o	782264803605233f
+7	656	1792339626794021792	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators.cpp.o	7435e72696954e0d
+673	840	1792339627460081721	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_registrars.cpp.o	9bce11c26bba158c
+9	947	1792339626795542163	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_console.cpp.o	f12b49b117b8c538
+84	991	1792339626871361629	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_cumulative_base.cpp.o	7a5d94428e69f3a9
+556	1235	1792339627342882385	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_event_listener.cpp.o	19b85d9ec12e74af
+1235	1463	1792339628022263911	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_exception.cpp.o	2cfa2bdd3bee0d22
+741	1325	1792339627527597120	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_streaming_base.cpp.o	2b48451d3fdd6dfc
+558	1517	1792339627344786922	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_helpers.cpp.o	2e7e50dec61fb6d9
+1316	1478	1792339628103333240	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_generatortracker.cpp.o	4cf51ff90df4b0a7
+728	1644	1792339627515409771	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_sonarqube.cpp.o	781a572155ca5c0c
+991	1401	1792339627777762343	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_config.cpp.o	abccdac77d6c8fc7
+947	1316	1792339627733595311	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_capture.cpp.o	a7066121c44c0ef8
+656	1367	1792339627443465589	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_multi.cpp.o	b7dffa2e2a8983
+585	1398	1792339627372273739	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_junit.cpp.o	582f89d185a62391
+572	1521	1792339627359401225	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_json.cpp.o	fc85918471db34cc
+1325	1504	1792339628111916305	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_registry_hub.cpp.o	d680e46ca79276ed
+751	1456	1792339627537609849	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_teamcity.cpp.o	9ca5a880f44b4d2e
+743	1440	1792339627529635199	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_tap.cpp.o	b561bde68ef9b3c0
+840	1468	1792339627626753119	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_xml.cpp.o	6d8615be7060f22e
+1398	1609	1792339628184996359	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter_factory.cpp.o	4fe886f1bf47405c
+1521	1654	1792339628308004809	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tag_alias_autoregistrar.cpp.o	1a115cdc1469991b
+1401	1791	1792339628188433227	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_testcase.cpp.o	1ed26aae72941c20
+1456	1962	1792339628242717029	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_assertion_result.cpp.o	43fa1dc3df387bdc
+1962	2007	1792339628749075337	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_totals.cpp.o	66190f4af0be78ad
+1468	2066	1792339628254968254	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_get_random_seed.cpp.o	9f47b7cb970c45bb
+1440	2081	1792339628226914646	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_approx.cpp.o	2edca1660802aa56
+1367	2161	1792339628153940050	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter.cpp.o	ecea7d191239d90b
+1655	2078	1792339628441515986	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_timer.cpp.o	9e3b731342f0b537
+1504	2104	1792339628290616970	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_registry_hub.cpp.o	c67e8776ca8f2e79
+1478	2214	1792339628264776775	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_message.cpp.o	a492785f1791534f
+2007	2331	1792339628794171784	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_translate_exception.cpp.o	e043444c91f6d150
+1609	2296	1792339628396453289	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_case_info.cpp.o	b6abb68ca89915bf
+2296	2336	1792339629083256508	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_context.cpp.o	4646d973a1f39d7
+1791	2297	1792339628578129489	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tostring.cpp.o	7f7c8e002f5afe15
+1644	2375	1792339628431676923	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_spec.cpp.o	806a8935da436780
+1463	2517	1792339628249604640	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_config.cpp.o	ac0dc42f5516b017
+2081	2433	1792339628867673796	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_case_insensitive_comparisons.cpp.o	b996ec847052e6ad
+2517	2554	1792339629303839210	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_errno_guard.cpp.o	35e20b4406feda8e
+2066	2559	1792339628852727577	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_version.cpp.o	33a8cf62c8dc1809
+2078	2650	1792339628864986051	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_assertion_handler.cpp.o	11cfe196e6c5e541
+2650	2711	1792339629436748096	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_floating_point_helpers.cpp.o	6bef19939f6c0750
+2711	2760	1792339629497959467	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_getenv.cpp.o	ff0a63a7186afa24
+1517	2778	1792339628303664443	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_session.cpp.o	e901b5684ab6c484
+2433	2727	1792339629219685429	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enum_values_registry.cpp.o	badc45432c2f8e72
+2297	2850	1792339629084337297	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debug_console.cpp.o	975eb9c31db7ff2e
+2331	2724	1792339629118200851	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debugger.cpp.o	6ac7f384bb9f1804
+2214	2886	1792339629001422472	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_console_colour.cpp.o	66b3c8c51b4b629f
+2375	2753	1792339629161858176	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enforce.cpp.o	8b7c06cc3daba900
+2760	2894	1792339629546969614	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_leak_detector.cpp.o	49121c036442e1fb
+2336	2912	1792339629122581884	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_decomposer.cpp.o	fbec58b930305632
+2850	3014	1792339629636924009	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_message_info.cpp.o	e8c97bcde9a95d0d
+2912	2955	1792339629698646420	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_polyfills.cpp.o	7357e85f7200b0e
+2554	3085	1792339629340845465	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_exception_translator_registry.cpp.o	6e09955bcf7c0836
+2955	2997	1792339629742339120	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_number_generator.cpp.o	31aee7eb6a8bed9d
+2559	3142	1792339629346065454	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_fatal_condition_handler.cpp.o	7c25d16587d1de19
+3111	3144	1792339629897749584	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_result_type.cpp.o	bb26c7d40c13f000
+2104	3266	1792339628890863455	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_clara.cpp.o	3cefde0f9e394b49
+2894	3111	1792339629680830958	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_parse_numbers.cpp.o	bf643132ca11f10e
+2727	3282	1792339629513968517	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_jsonwriter.cpp.o	b64e03dc511d9e70
+2886	3331	1792339629673213182	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_output_redirect.cpp.o	cf7249a6dc6ecc2f
+2724	3391	1792339629511131565	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_istream.cpp.o	4c70128f450a5c68
+2753	3343	1792339629539939754	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_lazy_expr.cpp.o	f1b42c79046ded65
+3282	3599	1792339630069381889	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_singletons.cpp.o	7c043b00ed45e62e
+2161	3738	1792339628948006418	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_commandline.cpp.o	4906a71566ff689f
+2998	3461	1792339629784589322	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_seed_generation.cpp.o	4b48272f4957fcec
+2778	3621	1792339629564762535	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_list.cpp.o	5ae631edd3208074
+3343	3690	1792339630130186678	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_startup_exception_registry.cpp.o	75d64dff7f5efbb6
+3085	3820	1792339629872386471	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_spec_parser.cpp.o	e3768d556f33e5a0
+3266	3771	1792339630052983007	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_section.cpp.o	935be61c9e0ecf01
+3143	3677	1792339629929558392	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reusable_string_stream.cpp.o	6fd1c2abaa32abf0
+3331	3768	1792339630117717162	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_source_line_info.cpp.o	45ca5b9b832431c1
+3391	3824	1792339630177648369	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cpp.o	9a9bf8410a46b5c0
+3014	3957	1792339629800705664	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_registry.cpp.o	e189ad02501dcae3
+3955	4004	1792339630741955388	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_uncaught_exceptions.cpp.o	37fc599ea2477fd7
+3677	3955	1792339630463585350	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_info_hasher.cpp.o	7160dd0889d57dd7
+3144	4067	1792339629931188055	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_run_context.cpp.o	6a0bd23831f37762
+3599	4216	1792339630386223221	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stringref.cpp.o	c61a8ecab864472d
+3461	4061	1792339630248207595	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_string_manip.cpp.o	429fe4f2bba09242
+3771	4169	1792339630558341067	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_registry.cpp.o	1c4820c806c88c34
+3622	4271	1792339630408539716	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_tag_alias_registry.cpp.o	259c012054e0293
+3768	4157	1792339630555081782	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_failure_exception.cpp.o	8ad1c38571bbdacb
+3820	4239	1792339630606999048	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_spec_parser.cpp.o	63e5ec6d3cdc4dac
+3957	4506	1792339630744284342	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_wildcard_pattern.cpp.o	6424c3c0e014e677
+3738	4507	1792339630525253095	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_tracker.cpp.o	340830525503a5fe
+4004	4551	1792339630790624661	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_xmlwriter.cpp.o	4feae6d010afa04a
+3825	4458	1792339630611497997	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_textflow.cpp.o	b048f7a4ae3a2966
+3691	4677	1792339630477481737	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_registry_impl.cpp.o	bf98fdd1d2568177
+4061	4580	1792339630848356331	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers.cpp.o	a9a020f450f0990d
+4158	4784	1792339630944535878	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_exception.cpp.o	99817c80cd0bf456
+4216	4678	1792339631002647506	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_predicate.cpp.o	7323ac92bae64d8d
+4067	4702	1792339630854386318	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_container_properties.cpp.o	816ad3342eb91038
+4169	4898	1792339630956085145	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_floating_point.cpp.o	6bca3a2070a47e9f
+4239	4741	1792339631025915873	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_quantifiers.cpp.o	a7b0f4f8ca3bc72a
+4458	5166	1792339631244755787	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_templated.cpp.o	8fe1cdb442b44874
+4506	5137	1792339631293279435	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/internal/catch_matchers_impl.cpp.o	741659d335b14a8
+8	667	1792340196235312721	tests/CMakeFiles/routing_tests.dir/test_main.cpp.o	d3357ff6b6ce635b
+4507	5247	1792339631294199599	_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/catch2/internal/catch_main.cpp.o	956c5361e506a785
+4271	5381	1792339631057695223	_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_string.cpp.o	88f48c20b07f5650
+5381	5489	1792339632167840842	_deps/catch2-build/src/libCatch2d.a	5c4247c8e9a5cfff
+5489	5547	1792339632275545365	_deps/catch2-build/src/libCatch2Maind.a	893193724682b7f1
+1584	2260	1792340198485764313	tests/routing_tests	f516b441a97b3b06
+1584	2260	1792340198485764313	tests/routing_tests-b12d07c_tests.cmake	f516b441a97b3b06
+1584	2260	1792340198485764313	/Users/aayushgarg/optimise routes/build/tests/routing_tests-b12d07c_tests.cmake	f516b441a97b3b06
+3	23611	1792340402485992494	build.ninja	a993127617a56d48
+3	23611	1792340402478455148	/Users/aayushgarg/optimise routes/build/cmake_install.cmake	a993127617a56d48
+3	23611	1792340402478715024	/Users/aayushgarg/optimise routes/build/_deps/catch2-build/cmake_install.cmake	a993127617a56d48
+3	23611	1792340402483289948	/Users/aayushgarg/optimise routes/build/_deps/catch2-build/src/cmake_install.cmake	a993127617a56d48
+3	23611	1792340402484278033	/Users/aayushgarg/optimise routes/build/src/cmake_install.cmake	a993127617a56d48
+3	23611	1792340402485216992	/Users/aayushgarg/optimise routes/build/tests/cmake_install.cmake	a993127617a56d48
+3	23611	1792340402478567940	/Users/aayushgarg/optimise routes/build/CTestTestfile.cmake	a993127617a56d48
+3	23611	1792340402485326243	/Users/aayushgarg/optimise routes/build/tests/CTestTestfile.cmake	a993127617a56d48
+5	721	1792340196232073799	src/CMakeFiles/waste_routing.dir/graph.cpp.o	a06bf9ec35aab354
+1349	1390	1792340197576382820	src/libwaste_routing.a	bdf5b8d32551fae7
+56	827	1792340196283328048	tests/CMakeFiles/routing_tests.dir/test_graph.cpp.o	2672b1f73663d199
+5	376	1792340196232280092	src/CMakeFiles/waste_routing.dir/route.cpp.o	2779fd0fe9366df5
+5	609	1792340196232384467	src/CMakeFiles/waste_routing.dir/cost_evaluator.cpp.o	316beabbbac86efc
+5	603	1792340196232480967	src/CMakeFiles/waste_routing.dir/optimizer.cpp.o	4159d097b196132c
+377	1014	1792340196603620018	tests/CMakeFiles/routing_tests.dir/test_optimizer.cpp.o	97a7a335f0c95148
+6	56	1792340196232577759	src/CMakeFiles/waste_routing.dir/vehicle.cpp.o	f12eb81518565926
+6	473	1792340196232689175	src/CMakeFiles/waste_routing.dir/solution.cpp.o	7ab7f1e6d740a8ae
+6	495	1792340196232985301	src/CMakeFiles/waste_routing.dir/fleet_optimizer.cpp.o	5d2fec48e3d3acdd
+449	1018	1792340196675654382	tests/CMakeFiles/routing_tests.dir/test_fleet.cpp.o	4df2e7357c10380e
+6	448	1792340196233238010	src/CMakeFiles/waste_routing.dir/facility_index.cpp.o	4c649ce2e08bb2d5
+7	639	1792340196233591302	src/CMakeFiles/waste_routing.dir/initial_builder.cpp.o	e10fad6852967165
+473	1078	1792340196700026963	tests/CMakeFiles/routing_tests.dir/test_initial_builder.cpp.o	4003416c6f228f6e
+7	522	1792340196233840427	src/CMakeFiles/waste_routing.dir/engine.cpp.o	8ce86c14b1599ae0
+497	1102	1792340196724260502	tests/CMakeFiles/routing_tests.dir/test_engine.cpp.o	8dd03f4c993e392a
+1	15	1792339626771349548	clean	7eb198a2a14a776
+7	1349	1792340196234106344	src/CMakeFiles/waste_routing.dir/io.cpp.o	439d5fcca786a850
+522	1584	1792340196749330875	tests/CMakeFiles/routing_tests.dir/test_io.cpp.o	a96a8146f80167ff
+2	375	1792340402485992494	build.ninja	a993127617a56d48
+2	375	1792340402485992494	/Users/aayushgarg/optimise routes/build/cmake_install.cmake	a993127617a56d48
+2	375	1792340402485992494	/Users/aayushgarg/optimise routes/build/_deps/catch2-build/cmake_install.cmake	a993127617a56d48
+2	375	1792340402485992494	/Users/aayushgarg/optimise routes/build/_deps/catch2-build/src/cmake_install.cmake	a993127617a56d48
+2	375	1792340402485992494	/Users/aayushgarg/optimise routes/build/_deps/nlohmann_json-build/cmake_install.cmake	a993127617a56d48
+2	375	1792340402485992494	/Users/aayushgarg/optimise routes/build/src/cmake_install.cmake	a993127617a56d48
+2	375	1792340402485992494	/Users/aayushgarg/optimise routes/build/tests/cmake_install.cmake	a993127617a56d48
+2	375	1792340402485992494	/Users/aayushgarg/optimise routes/build/CTestTestfile.cmake	a993127617a56d48
+2	375	1792340402485992494	/Users/aayushgarg/optimise routes/build/tests/CTestTestfile.cmake	a993127617a56d48
+7	749	1792340402496167135	src/CMakeFiles/waste_router_cli.dir/main.cpp.o	d0f800f9ff396626
+749	839	1792340403237997986	src/waste_router_cli	b462405011d08d29

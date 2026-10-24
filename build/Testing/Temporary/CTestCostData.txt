@@ -1,0 +1,32 @@
+Type traits and sizing for IDs and Enums 9 0.000701796
+Compile-time velocity and capacity limit constants 9 0.000698343
+WastePayload arithmetic and total mass calculations 8 0.000759052
+Facility stream acceptance logic (is_sink_for) 8 0.000733135
+DirectedGraph construction with asymmetric edges 8 0.000709495
+Isolated nodes handling in DirectedGraph 8 0.000750135
+Boundary checks and out-of-range exception handling 8 0.000758802
+Graph nodes ordering and turn penalty flags preservation 8 0.000723474
+Route abstraction basic properties and intermediate stops 7 0.000835441
+CostEvaluator with direct edges and Dijkstra shortest path fallback 7 0.000903232
+RouteOptimizer 2-Opt: Crossed path uncrossing 7 0.000831095
+RouteOptimizer: Fixed endpoints guarantee 7 0.000829018
+RouteOptimizer: Edge cases with <= 3 stops 7 0.000826006
+RouteOptimizer: Directed graph feasibility and one-way constraints 7 0.000860833
+WasteVehicle capacity and shift limits 6 0.00098041
+Route payload accumulation and feasibility checker 6 0.000971389
+FleetOptimizer: Relocate operator moves clustered stop to nearest route 6 0.000990695
+FleetOptimizer: Swap operator exchanges crossed stops between routes 6 0.00105281
+FleetOptimizer: Rejects moves violating capacity constraint 6 0.00100813
+ActiveVehicle state tracking and reset_load 5 0.00112851
+FacilityIndex: sink indexing and nearest-sink query 5 0.00115942
+InitialSolutionBuilder: Greedy nearest-neighbor routing order 5 0.00119911
+InitialSolutionBuilder: Intermediate replenishment (dump trip on overflow) 5 0.00115898
+InitialSolutionBuilder: Shift limit causes handoff to second vehicle 5 0.00118737
+WasteRoutingEngine: End-to-end multi-vehicle optimization pipeline 4 0.00148498
+WasteRoutingEngine: Graph sealing semantics and idempotency 4 0.0015195
+WasteRoutingEngine: Multi-vehicle handoff under shift duration limit 3 0.00200337
+WasteRoutingEngine: Edge cases with empty input or empty fleet 4 0.00149336
+WasteRouteIO: End-to-end municipal JSON ingestion and solution export 1 0.00630867
+WasteRouteIO: Export empty solution produces valid schema 1 0.00594729
+WasteRouteIO: Malformed JSON triggers parse error 1 0.00572942
+---

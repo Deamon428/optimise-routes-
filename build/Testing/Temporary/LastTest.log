@@ -1,0 +1,624 @@
+Start testing: Oct 18 21:46 IST
+----------------------------------------------------------
+1/31 Testing: Type traits and sizing for IDs and Enums
+1/31 Test: Type traits and sizing for IDs and Enums
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "Type traits and sizing for IDs and Enums"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"Type traits and sizing for IDs and Enums" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "Type traits and sizing for IDs and Enums"
+Randomness seeded to: 3980160196
+===============================================================================
+All tests passed (14 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Type traits and sizing for IDs and Enums" end time: Oct 18 21:46 IST
+"Type traits and sizing for IDs and Enums" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/31 Testing: Compile-time velocity and capacity limit constants
+2/31 Test: Compile-time velocity and capacity limit constants
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "Compile-time velocity and capacity limit constants"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"Compile-time velocity and capacity limit constants" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "Compile-time velocity and capacity limit constants"
+Randomness seeded to: 2361907311
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Compile-time velocity and capacity limit constants" end time: Oct 18 21:46 IST
+"Compile-time velocity and capacity limit constants" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/31 Testing: WastePayload arithmetic and total mass calculations
+3/31 Test: WastePayload arithmetic and total mass calculations
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "WastePayload arithmetic and total mass calculations"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"WastePayload arithmetic and total mass calculations" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "WastePayload arithmetic and total mass calculations"
+Randomness seeded to: 2157396639
+===============================================================================
+All tests passed (14 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"WastePayload arithmetic and total mass calculations" end time: Oct 18 21:46 IST
+"WastePayload arithmetic and total mass calculations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/31 Testing: Facility stream acceptance logic (is_sink_for)
+4/31 Test: Facility stream acceptance logic (is_sink_for)
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "Facility stream acceptance logic (is_sink_for)"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"Facility stream acceptance logic (is_sink_for)" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "Facility stream acceptance logic (is_sink_for)"
+Randomness seeded to: 378655309
+===============================================================================
+All tests passed (24 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Facility stream acceptance logic (is_sink_for)" end time: Oct 18 21:46 IST
+"Facility stream acceptance logic (is_sink_for)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/31 Testing: DirectedGraph construction with asymmetric edges
+5/31 Test: DirectedGraph construction with asymmetric edges
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "DirectedGraph construction with asymmetric edges"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"DirectedGraph construction with asymmetric edges" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "DirectedGraph construction with asymmetric edges"
+Randomness seeded to: 3009363794
+===============================================================================
+All tests passed (18 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DirectedGraph construction with asymmetric edges" end time: Oct 18 21:46 IST
+"DirectedGraph construction with asymmetric edges" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/31 Testing: Isolated nodes handling in DirectedGraph
+6/31 Test: Isolated nodes handling in DirectedGraph
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "Isolated nodes handling in DirectedGraph"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"Isolated nodes handling in DirectedGraph" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "Isolated nodes handling in DirectedGraph"
+Randomness seeded to: 2803575936
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Isolated nodes handling in DirectedGraph" end time: Oct 18 21:46 IST
+"Isolated nodes handling in DirectedGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/31 Testing: Boundary checks and out-of-range exception handling
+7/31 Test: Boundary checks and out-of-range exception handling
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "Boundary checks and out-of-range exception handling"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"Boundary checks and out-of-range exception handling" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "Boundary checks and out-of-range exception handling"
+Randomness seeded to: 3726837532
+===============================================================================
+All tests passed (22 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Boundary checks and out-of-range exception handling" end time: Oct 18 21:46 IST
+"Boundary checks and out-of-range exception handling" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/31 Testing: Graph nodes ordering and turn penalty flags preservation
+8/31 Test: Graph nodes ordering and turn penalty flags preservation
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "Graph nodes ordering and turn penalty flags preservation"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"Graph nodes ordering and turn penalty flags preservation" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "Graph nodes ordering and turn penalty flags preservation"
+Randomness seeded to: 3898050338
+===============================================================================
+All tests passed (12 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Graph nodes ordering and turn penalty flags preservation" end time: Oct 18 21:46 IST
+"Graph nodes ordering and turn penalty flags preservation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/31 Testing: Route abstraction basic properties and intermediate stops
+9/31 Test: Route abstraction basic properties and intermediate stops
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "Route abstraction basic properties and intermediate stops"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"Route abstraction basic properties and intermediate stops" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "Route abstraction basic properties and intermediate stops"
+Randomness seeded to: 2545864837
+===============================================================================
+All tests passed (24 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Route abstraction basic properties and intermediate stops" end time: Oct 18 21:46 IST
+"Route abstraction basic properties and intermediate stops" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/31 Testing: CostEvaluator with direct edges and Dijkstra shortest path fallback
+10/31 Test: CostEvaluator with direct edges and Dijkstra shortest path fallback
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "CostEvaluator with direct edges and Dijkstra shortest path fallback"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"CostEvaluator with direct edges and Dijkstra shortest path fallback" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "CostEvaluator with direct edges and Dijkstra shortest path fallback"
+Randomness seeded to: 64025194
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CostEvaluator with direct edges and Dijkstra shortest path fallback" end time: Oct 18 21:46 IST
+"CostEvaluator with direct edges and Dijkstra shortest path fallback" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/31 Testing: RouteOptimizer 2-Opt: Crossed path uncrossing
+11/31 Test: RouteOptimizer 2-Opt: Crossed path uncrossing
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "RouteOptimizer 2-Opt: Crossed path uncrossing"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"RouteOptimizer 2-Opt: Crossed path uncrossing" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "RouteOptimizer 2-Opt: Crossed path uncrossing"
+Randomness seeded to: 1756974826
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RouteOptimizer 2-Opt: Crossed path uncrossing" end time: Oct 18 21:46 IST
+"RouteOptimizer 2-Opt: Crossed path uncrossing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/31 Testing: RouteOptimizer: Fixed endpoints guarantee
+12/31 Test: RouteOptimizer: Fixed endpoints guarantee
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "RouteOptimizer: Fixed endpoints guarantee"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"RouteOptimizer: Fixed endpoints guarantee" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "RouteOptimizer: Fixed endpoints guarantee"
+Randomness seeded to: 861837599
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RouteOptimizer: Fixed endpoints guarantee" end time: Oct 18 21:46 IST
+"RouteOptimizer: Fixed endpoints guarantee" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/31 Testing: RouteOptimizer: Edge cases with <= 3 stops
+13/31 Test: RouteOptimizer: Edge cases with <= 3 stops
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "RouteOptimizer: Edge cases with <= 3 stops"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"RouteOptimizer: Edge cases with <= 3 stops" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "RouteOptimizer: Edge cases with <= 3 stops"
+Randomness seeded to: 3976377274
+===============================================================================
+All tests passed (13 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RouteOptimizer: Edge cases with <= 3 stops" end time: Oct 18 21:46 IST
+"RouteOptimizer: Edge cases with <= 3 stops" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/31 Testing: RouteOptimizer: Directed graph feasibility and one-way constraints
+14/31 Test: RouteOptimizer: Directed graph feasibility and one-way constraints
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "RouteOptimizer: Directed graph feasibility and one-way constraints"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"RouteOptimizer: Directed graph feasibility and one-way constraints" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "RouteOptimizer: Directed graph feasibility and one-way constraints"
+Randomness seeded to: 1091617371
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RouteOptimizer: Directed graph feasibility and one-way constraints" end time: Oct 18 21:46 IST
+"RouteOptimizer: Directed graph feasibility and one-way constraints" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/31 Testing: WasteVehicle capacity and shift limits
+15/31 Test: WasteVehicle capacity and shift limits
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "WasteVehicle capacity and shift limits"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"WasteVehicle capacity and shift limits" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "WasteVehicle capacity and shift limits"
+Randomness seeded to: 987715640
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"WasteVehicle capacity and shift limits" end time: Oct 18 21:46 IST
+"WasteVehicle capacity and shift limits" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/31 Testing: Route payload accumulation and feasibility checker
+16/31 Test: Route payload accumulation and feasibility checker
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "Route payload accumulation and feasibility checker"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"Route payload accumulation and feasibility checker" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "Route payload accumulation and feasibility checker"
+Randomness seeded to: 678224347
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Route payload accumulation and feasibility checker" end time: Oct 18 21:46 IST
+"Route payload accumulation and feasibility checker" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/31 Testing: FleetOptimizer: Relocate operator moves clustered stop to nearest route
+17/31 Test: FleetOptimizer: Relocate operator moves clustered stop to nearest route
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "FleetOptimizer: Relocate operator moves clustered stop to nearest route"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"FleetOptimizer: Relocate operator moves clustered stop to nearest route" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "FleetOptimizer: Relocate operator moves clustered stop to nearest route"
+Randomness seeded to: 3349230113
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FleetOptimizer: Relocate operator moves clustered stop to nearest route" end time: Oct 18 21:46 IST
+"FleetOptimizer: Relocate operator moves clustered stop to nearest route" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/31 Testing: FleetOptimizer: Swap operator exchanges crossed stops between routes
+18/31 Test: FleetOptimizer: Swap operator exchanges crossed stops between routes
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "FleetOptimizer: Swap operator exchanges crossed stops between routes"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"FleetOptimizer: Swap operator exchanges crossed stops between routes" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "FleetOptimizer: Swap operator exchanges crossed stops between routes"
+Randomness seeded to: 652492847
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FleetOptimizer: Swap operator exchanges crossed stops between routes" end time: Oct 18 21:46 IST
+"FleetOptimizer: Swap operator exchanges crossed stops between routes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/31 Testing: FleetOptimizer: Rejects moves violating capacity constraint
+19/31 Test: FleetOptimizer: Rejects moves violating capacity constraint
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "FleetOptimizer: Rejects moves violating capacity constraint"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"FleetOptimizer: Rejects moves violating capacity constraint" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "FleetOptimizer: Rejects moves violating capacity constraint"
+Randomness seeded to: 1274426129
+===============================================================================
+test cases: 1 | 1 passed
+assertions: - none -
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FleetOptimizer: Rejects moves violating capacity constraint" end time: Oct 18 21:46 IST
+"FleetOptimizer: Rejects moves violating capacity constraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/31 Testing: ActiveVehicle state tracking and reset_load
+20/31 Test: ActiveVehicle state tracking and reset_load
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "ActiveVehicle state tracking and reset_load"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"ActiveVehicle state tracking and reset_load" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "ActiveVehicle state tracking and reset_load"
+Randomness seeded to: 36007132
+===============================================================================
+All tests passed (13 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ActiveVehicle state tracking and reset_load" end time: Oct 18 21:46 IST
+"ActiveVehicle state tracking and reset_load" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/31 Testing: FacilityIndex: sink indexing and nearest-sink query
+21/31 Test: FacilityIndex: sink indexing and nearest-sink query
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "FacilityIndex: sink indexing and nearest-sink query"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"FacilityIndex: sink indexing and nearest-sink query" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "FacilityIndex: sink indexing and nearest-sink query"
+Randomness seeded to: 4261255197
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FacilityIndex: sink indexing and nearest-sink query" end time: Oct 18 21:46 IST
+"FacilityIndex: sink indexing and nearest-sink query" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/31 Testing: InitialSolutionBuilder: Greedy nearest-neighbor routing order
+22/31 Test: InitialSolutionBuilder: Greedy nearest-neighbor routing order
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "InitialSolutionBuilder: Greedy nearest-neighbor routing order"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"InitialSolutionBuilder: Greedy nearest-neighbor routing order" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "InitialSolutionBuilder: Greedy nearest-neighbor routing order"
+Randomness seeded to: 3266111722
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"InitialSolutionBuilder: Greedy nearest-neighbor routing order" end time: Oct 18 21:46 IST
+"InitialSolutionBuilder: Greedy nearest-neighbor routing order" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/31 Testing: InitialSolutionBuilder: Intermediate replenishment (dump trip on overflow)
+23/31 Test: InitialSolutionBuilder: Intermediate replenishment (dump trip on overflow)
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "InitialSolutionBuilder: Intermediate replenishment (dump trip on overflow)"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"InitialSolutionBuilder: Intermediate replenishment (dump trip on overflow)" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "InitialSolutionBuilder: Intermediate replenishment (dump trip on overflow)"
+Randomness seeded to: 2371143692
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"InitialSolutionBuilder: Intermediate replenishment (dump trip on overflow)" end time: Oct 18 21:46 IST
+"InitialSolutionBuilder: Intermediate replenishment (dump trip on overflow)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/31 Testing: InitialSolutionBuilder: Shift limit causes handoff to second vehicle
+24/31 Test: InitialSolutionBuilder: Shift limit causes handoff to second vehicle
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "InitialSolutionBuilder: Shift limit causes handoff to second vehicle"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"InitialSolutionBuilder: Shift limit causes handoff to second vehicle" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "InitialSolutionBuilder: Shift limit causes handoff to second vehicle"
+Randomness seeded to: 4278600203
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"InitialSolutionBuilder: Shift limit causes handoff to second vehicle" end time: Oct 18 21:46 IST
+"InitialSolutionBuilder: Shift limit causes handoff to second vehicle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/31 Testing: WasteRoutingEngine: End-to-end multi-vehicle optimization pipeline
+25/31 Test: WasteRoutingEngine: End-to-end multi-vehicle optimization pipeline
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "WasteRoutingEngine: End-to-end multi-vehicle optimization pipeline"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"WasteRoutingEngine: End-to-end multi-vehicle optimization pipeline" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "WasteRoutingEngine: End-to-end multi-vehicle optimization pipeline"
+Randomness seeded to: 1056713808
+===============================================================================
+All tests passed (20 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"WasteRoutingEngine: End-to-end multi-vehicle optimization pipeline" end time: Oct 18 21:46 IST
+"WasteRoutingEngine: End-to-end multi-vehicle optimization pipeline" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/31 Testing: WasteRoutingEngine: Graph sealing semantics and idempotency
+26/31 Test: WasteRoutingEngine: Graph sealing semantics and idempotency
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "WasteRoutingEngine: Graph sealing semantics and idempotency"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"WasteRoutingEngine: Graph sealing semantics and idempotency" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "WasteRoutingEngine: Graph sealing semantics and idempotency"
+Randomness seeded to: 1446799121
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"WasteRoutingEngine: Graph sealing semantics and idempotency" end time: Oct 18 21:46 IST
+"WasteRoutingEngine: Graph sealing semantics and idempotency" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/31 Testing: WasteRoutingEngine: Multi-vehicle handoff under shift duration limit
+27/31 Test: WasteRoutingEngine: Multi-vehicle handoff under shift duration limit
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "WasteRoutingEngine: Multi-vehicle handoff under shift duration limit"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"WasteRoutingEngine: Multi-vehicle handoff under shift duration limit" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "WasteRoutingEngine: Multi-vehicle handoff under shift duration limit"
+Randomness seeded to: 2994290406
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"WasteRoutingEngine: Multi-vehicle handoff under shift duration limit" end time: Oct 18 21:46 IST
+"WasteRoutingEngine: Multi-vehicle handoff under shift duration limit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/31 Testing: WasteRoutingEngine: Edge cases with empty input or empty fleet
+28/31 Test: WasteRoutingEngine: Edge cases with empty input or empty fleet
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "WasteRoutingEngine: Edge cases with empty input or empty fleet"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"WasteRoutingEngine: Edge cases with empty input or empty fleet" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "WasteRoutingEngine: Edge cases with empty input or empty fleet"
+Randomness seeded to: 3787695612
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"WasteRoutingEngine: Edge cases with empty input or empty fleet" end time: Oct 18 21:46 IST
+"WasteRoutingEngine: Edge cases with empty input or empty fleet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/31 Testing: WasteRouteIO: End-to-end municipal JSON ingestion and solution export
+29/31 Test: WasteRouteIO: End-to-end municipal JSON ingestion and solution export
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "WasteRouteIO: End-to-end municipal JSON ingestion and solution export"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"WasteRouteIO: End-to-end municipal JSON ingestion and solution export" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "WasteRouteIO: End-to-end municipal JSON ingestion and solution export"
+Randomness seeded to: 2283510403
+===============================================================================
+All tests passed (26 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"WasteRouteIO: End-to-end municipal JSON ingestion and solution export" end time: Oct 18 21:46 IST
+"WasteRouteIO: End-to-end municipal JSON ingestion and solution export" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/31 Testing: WasteRouteIO: Export empty solution produces valid schema
+30/31 Test: WasteRouteIO: Export empty solution produces valid schema
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "WasteRouteIO: Export empty solution produces valid schema"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"WasteRouteIO: Export empty solution produces valid schema" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "WasteRouteIO: Export empty solution produces valid schema"
+Randomness seeded to: 4184736390
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"WasteRouteIO: Export empty solution produces valid schema" end time: Oct 18 21:46 IST
+"WasteRouteIO: Export empty solution produces valid schema" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/31 Testing: WasteRouteIO: Malformed JSON triggers parse error
+31/31 Test: WasteRouteIO: Malformed JSON triggers parse error
+Command: "/Users/aayushgarg/optimise routes/build/tests/routing_tests" "WasteRouteIO: Malformed JSON triggers parse error"
+Directory: /Users/aayushgarg/optimise routes/build/tests
+"WasteRouteIO: Malformed JSON triggers parse error" start time: Oct 18 21:46 IST
+Output:
+----------------------------------------------------------
+Filters: "WasteRouteIO: Malformed JSON triggers parse error"
+Randomness seeded to: 1184120391
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"WasteRouteIO: Malformed JSON triggers parse error" end time: Oct 18 21:46 IST
+"WasteRouteIO: Malformed JSON triggers parse error" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 18 21:46 IST
